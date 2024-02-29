@@ -1,0 +1,17 @@
+Class SkipNumbers { 
+Public static void printSkippedNumbers(int M, int N, int K) { 
+For (int i = M; i <= N; i += K) { 
+System.out.print(i); 
+If (i + K <= N) { 
+System.out.print(“, “); 
+} 
+} 
+System.out.println(); 
+} 
+Public static void main(String[] args) { 
+Int M = 50; 
+Int N = 100; 
+Int K = 7; 
+printSkippedNumbers(M, N, K+1); 
+} 
+} 
