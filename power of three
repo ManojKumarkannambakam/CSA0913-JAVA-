@@ -1,0 +1,20 @@
+class PowerOfThree { 
+     
+     public static void main(String[] args) { 
+        int num = 27; // Change this to any integer you want to check 
+        System.out.println(num + " is a power of three: " + isPowerOfThree(num)); 
+    } 
+ public static boolean isPowerOfThree(int n) { 
+        if (n <= 0) { 
+            return false; 
+        } 
+         
+        while (n % 3 == 0) { 
+            n /= 3; 
+        } 
+         
+        return true; 
+    } 
+     
+    
+}
