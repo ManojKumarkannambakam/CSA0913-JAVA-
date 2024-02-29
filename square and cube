@@ -1,0 +1,15 @@
+ iimmppoorrttjjaavvaa..uuttiill..SSccaannnneerr;;
+ ppuubblliiccccllaassssssqquuaarreeccuubbee{{
+ ppuubblliiccssttaattiiccvvooiiddmmaaiinn((SSttrriinngg[[]]aarrggss)){{
+ SSccaannnneerrssccaannnneerr==nneewwSSccaannnneerr((SSyysstteemm..iinn));;
+ SSyysstteemm..oouutt..pprriinntt((""EEnntteerraaddeecciimmaallnnuummbbeerr::""));;
+ ddoouubblleeggiivveennNNuummbbeerr==ssccaannnneerr..nneexxttDDoouubbllee(());;
+ ddoouubblleessqquuaarreeRReessuulltt==ggiivveennNNuummbbeerr**ggiivveennNNuummbbeerr;;
+ ddoouubblleeccuubbeeRReessuulltt==ggiivveennNNuummbbeerr**ggiivveennNNuummbbeerr**ggiivveennNNuummbbeerr;;
+ SSyysstteemm..oouutt..pprriinnttllnn((""SSqquuaarreeNNuummbbeerr::""++rroouunnddTTooTThhrreeeeDDeecciimmaallPPllaacceess((ssqquuaarreeRReessuulltt))));;
+ SSyysstteemm..oouutt..pprriinnttllnn((""CCuubbeeNNuummbbeerr::""++rroouunnddTTooTThhrreeeeDDeecciimmaallPPllaacceess((ccuubbeeRReessuulltt))));;
+ }}
+ pprriivvaatteessttaattiiccddoouubblleerroouunnddTTooTThhrreeeeDDeecciimmaallPPllaacceess((ddoouubblleevvaalluuee)){{
+ rreettuurrnnMMaatthh..rroouunndd((vvaalluuee**11000000..00))//  11000000..00;;
+        }}
+ }
