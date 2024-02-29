@@ -1,0 +1,12 @@
+Import java.util.Scanner;  
+Class value  
+{ 
+Public static void main(String args[]){   
+Int i,fact=1;   
+Int number=5;     
+For(i=1;i<=number;i++){     
+Fact=fact*i;     
+}     
+System.out.println(“Factorial of “+number+” is: “+fact);     
+}   
+}
