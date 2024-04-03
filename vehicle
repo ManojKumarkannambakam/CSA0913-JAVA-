@@ -1,0 +1,69 @@
+class vehicle
+
+string lincenseplate-" "; string owner="";
+
+class car extends vehicle
+
+string name "seltos";
+
+string models"kia"; string color="red";
+
+Int price 1600000:
+
+int tyresas;
+
+void display()
+
+Lincenseolate "AP12A886666";
+
+owner="partha";
+
+System.out.println("Car details:");
+
+T
+
+System.out.println(owner+" "+licenscplate+" "+name+" "+model+" "+color+" "+price+" "+tyrest" ");
+
+class Motorcycle extends vehicle
+
+string name "Jupiter";
+
+string model-zx; string color-"green";
+
+int price-100000;
+
+int tyres-2; void display()
+
+Lincenseolate-"APB4CHBA76";
+
+owner-"pushpaja";
+
+System.out.println("Motorcycle details:");
+
+class truck extends vehicle
+
+string namesharatheen" string model-358
+
+string string color-"white"; int p70ee;
+
+3528;
+
+Int tyres=9; void display()
+
+11ncenseolate-"AP120-3412"; owner-"partha",
+
+System.out.println("Truck details:");
+
+System.out.println(owner" "licenseplatre" "+name+" "+model+* +color+ *+price+" "+tyres." ");
+
+public static void main(String args[])
+
+can c-new car();
+
+Motorcycle acanew Motorcycle(); truck t-new truck();
+
+c.display();
+
+ec.display(); t.display()
+
+3
